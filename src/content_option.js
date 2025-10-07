@@ -112,13 +112,13 @@ const services = [{
 
 const dataportfolio = [
     {
-        img: "https://github.com/ChristianoAlpha/ChristianoAlpha/blob/main/car.png?raw=true",
+        img: "https://github.com/ChristianoAlpha/ChristianoAlpha/blob/main/news.png?raw=true",
         description: "AngoNews",
         description2: "Real-time information, clean interface, and smooth navigation.Where every news item is a living fragment of the now.",
         link: "#",
     },
     {
-        img: "https://github.com/ChristianoAlpha/ChristianoAlpha/blob/main/news.png?raw=true",
+        img: "https://github.com/ChristianoAlpha/ChristianoAlpha/blob/main/car.png?raw=true",
         description: "AngoCar",
         description2: "The platform allows users to explore, filter, and book cars with precision, fluidity, and safety..",
         link: "#",
@@ -129,12 +129,6 @@ const dataportfolio = [
         description2: "We create visual experiences that inspire, communicate, and transform. Where image meets purpose — and the brand gains soul.",
         link: "#",
     },
-
-
-
-
-
-
 ];
 
 const contactConfig = {
