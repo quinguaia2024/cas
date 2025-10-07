@@ -54,15 +54,24 @@ const skills = [{
     value: 85,
 },
 {
-    name: "MySQL / PostgreSQL / SQLite",
+    name: "MySQL / PostgreSQL",
     value: 75,
 },
+
 {
-    name: "Apache / XAMPP / Composer / Virtualenv",
+    name: "Apache / XAMPP ",
     value: 82,
 },
 {
-    name: "API Integration & Auth Systems",
+    name: "Composer / Virtualenv",
+    value: 82,
+},
+{
+    name: "API Integration",
+    value: 80,
+},
+{
+    name: "Auth Systems",
     value: 80,
 },
 {
@@ -74,12 +83,13 @@ const skills = [{
     value: 60,
 },
 {
-    name: "Software installation and configuration",
+    name: "Software config",
     value: 60,
 },
+
 {
-    name: "Diagnostics and maintenance of systems",
-    value: 60,
+    name: "Diagnostics of systems",
+    value: 80,
 },
 ];
 
