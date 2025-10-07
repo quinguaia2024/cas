@@ -137,9 +137,9 @@ const contactConfig = {
     description: "Do you want to understand what comes after logic? Get in touch or Explore my projects",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_o12llm7",
-    YOUR_TEMPLATE_ID: "template_w11ah6t",
-    YOUR_USER_ID: "EbilYLIQdO7JPWpmS",
+    YOUR_SERVICE_ID: "service_sm39kdd",
+    YOUR_TEMPLATE_ID: "template_ibx92u6",
+    YOUR_USER_ID: "UX6RxoaiRPT7FPR2L",
 };
 
 const socialprofils = {
